@@ -1,4 +1,4 @@
-from turtle import Turtl
+from turtle import Turtle
 
 class Ball(Turtle):
 
